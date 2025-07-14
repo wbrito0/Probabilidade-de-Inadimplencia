@@ -35,4 +35,4 @@ jupyter notebook Probabilidade de inadimplência.ipynb
 
 
 <h2 id="contato">✉️ Contato</h2>
-<p>Seu Nome – <a href="mailto:wesleybritowx@gmail.com">wesleybritowx@gmail.com</a> – <a href="https://github.com/wbrito0">GitHub</a></p>
+<p>Wesley Brito – <a href="mailto:wesleybritowx@gmail.com">wesleybritowx@gmail.com</a> – <a href="https://github.com/wbrito0">GitHub</a></p>
