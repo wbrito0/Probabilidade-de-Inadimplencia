@@ -1,4 +1,4 @@
-<h1 align="center">Case – Junior Data Science</h1>
+<h1 align="center">Case – Trainee Data Science</h1>
 
 <p align="center">
   Solução para o desafio de Data Science Júnior da <strong>Datarisk</strong>, com análise, modelagem e predições.
