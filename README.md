@@ -1,7 +1,7 @@
 <h1 align="center">Case – Trainee Data Science</h1>
 
 <p align="center">
-  Solução para o desafio de Data Science Júnior da <strong>Datarisk</strong>, com análise, modelagem e predições.
+  Solução para o desafio de Data Science Trainee com análise, modelagem e predições.
 </p>
 
 <h2 id="estrutura">📁 Estrutura do Projeto</h2>
