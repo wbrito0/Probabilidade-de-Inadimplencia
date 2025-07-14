@@ -1,4 +1,4 @@
-<h1 align="center">Datarisk Case – Junior Data Science</h1>
+<h1 align="center">Case – Junior Data Science</h1>
 
 <p align="center">
   Solução para o desafio de Data Science Júnior da <strong>Datarisk</strong>, com análise, modelagem e predições.
@@ -21,26 +21,18 @@ jupyter notebook Probabilidade de inadimplência.ipynb
 <ul>
   <li><strong>EDA:</strong> limpeza e visão dos dados (outliers, missing)</li>
   <li><strong>Engenharia de Features:</strong> criação/transformação de variáveis relevantes</li>
-  <li><strong>Modelagem:</strong> testes com modelos como Logistic Regression, Random Forest, XGBoost</li>
-  <li><strong>Validação:</strong> cross-validation e divisão treino/teste</li>
+  <li><strong>Modelagem:</strong> testes com modelos como Logistic Regression, Random Forest, Neural Network</li>
   <li><strong>Predição:</strong> aplicação do modelo e geração do arquivo final</li>
 </ul>
 
 <h2 id="resultados">📊 Resultados</h2>
-<p>Desempenho do melhor modelo (exemplo):</p>
+<p>Desempenho do melhor modelo RandomForestClassifier:</p>
 <ul>
-  <li>Acurácia: <strong>0.84</strong></li>
-  <li>F1‑Score: <strong>0.82</strong></li>
-  <li>Features mais importantes: idade, renda, número de atrasos</li>
+  <li>Acurácia: <strong>0.87</strong></li>
+  <li>F1‑Score: <strong>0.86</strong></li>
+  <li>Features mais importantes: VALOR_A_PAGAR, PRAZO, HISTORICO_ATRASO</li>
 </ul>
 
-<h2 id="proximos">🔭 Próximos Passos</h2>
-<ul>
-  <li>Refinar hiperparâmetros com <code>GridSearchCV</code></li>
-  <li>Implementar validação temporal ou K-fold avançado</li>
-  <li>Publicar API simples para inferência (FastAPI / Flask)</li>
-  <li>Adicionar testes unitários e CI/CD</li>
-</ul>
 
 <h2 id="contato">✉️ Contato</h2>
-<p>Seu Nome – <a href="mailto:seu.email@example.com">seu.email@example.com</a> – <a href="https://github.com/seu-usuario">GitHub</a></p>
+<p>Seu Nome – <a href="mailto:wesleybritowx@gmail.com">wesleybritowx@gmail.com</a> – <a href="https://github.com/wbrito0">GitHub</a></p>
