@@ -6,19 +6,15 @@
 
 <h2 id="estrutura">📁 Estrutura do Projeto</h2>
 <ul>
-  <li><code>data/</code>: arquivos <code>train.csv</code> e <code>test.csv</code></li>
-  <li><code>notebooks/main.ipynb</code>: EDA, pré-processamento e modelagem</li>
-  <li><code>src/</code>: scripts Python (opcional) para treino e predição</li>
-  <li><code>outputs/</code>: modelo treinado e submissão gerada</li>
-  <li><code>requirements.txt</code>: dependências do projeto</li>
+  <li><code>data/</code>: arquivos <code>base_pagamentos_desenvolvimento.csv</code> e <code>base_pagamentos_teste.csv</code> para treino, teste e validação do modelo.</li>
+  <li><code>data/</code>: arquivos <code>base_info.csv</code> e <code>base_cadastral.csv</code> com informações dos clientes.</li>
+  <li><code>Probabilidade de inadimplência.ipynb</code>: EDA, pré-processamento, modelagem.</li>
+  <li><code>requirements.txt</code>: dependências do projeto.</li>
 </ul>
 
 <h2 id="instalacao">🚀 Como Executar</h2>
 <pre><code>pip install -r requirements.txt
-jupyter notebook notebooks/main.ipynb
-# Opcional:
-python src/train.py      # treinar
-python src/predict.py    # gerar submissões
+jupyter notebook Probabilidade de inadimplência.ipynb
 </code></pre>
 
 <h2 id="metodologia">⚙️ Metodologia</h2>
